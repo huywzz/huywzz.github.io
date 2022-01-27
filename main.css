@@ -1,0 +1,58 @@
+
+#Header{
+    width: 980px;
+    height: 140px;
+    
+}
+#bang{
+    background-color: rgb(84, 84, 226) ;
+    width: 980px;
+    float:left;
+    color: white;
+   
+}
+.all{
+    width: 980px;
+    float: left;
+}
+.main{
+    margin-top: 15px;
+    width: 980px;
+    height: 450;
+}
+.mucluc{
+    float: left;
+    width: 270px;
+    height: 450px;
+    /* background-color: black; */
+    
+}
+.noidung{
+    float: right;
+    margin-left: 15px;
+    margin-top: -24px;
+   
+    width: 690px;
+    height: 450px;
+    
+}
+.bando{
+    float: left;
+    margin-left: -270px;
+    margin-top: 0px;
+}
+.Footer{
+    margin-top: 1050px;
+    background-color: rgb(84, 84, 226);
+    width: 980px;
+    height: 70px;
+}
+.Footer p{
+    color: white;
+    font-size: 15px;
+    margin-bottom: -400px;
+}
+body{
+    margin: 0 auto;
+    padding: 0;
+}
